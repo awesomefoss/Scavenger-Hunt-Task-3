@@ -86,7 +86,7 @@ Remember to link to your project pages from your main `index.html` or any other 
 
 If you have a custom domain, you can set it up for your GitHub Pages portfolio. Follow GitHub's guide on [setting up a custom domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site).
 
-## Conclusion
+## Conclusion:
 
 Congratulations! You now have your personal portfolio website up and running on GitHub Pages. Regularly update your portfolio with new projects and achievements to keep it fresh and engaging for visitors. Happy coding!
 
